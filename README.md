@@ -1,2 +1,2 @@
 # SVaG
-Scalable Vector Graphics apps
+Scalable Vector adjustable Graphics
