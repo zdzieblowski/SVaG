@@ -1,2 +1,2 @@
 # SVaG
-Scalable Vector adjustable Graphics
+Scalable Vector (adjustable) Graphics
